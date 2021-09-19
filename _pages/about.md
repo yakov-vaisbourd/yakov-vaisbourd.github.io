@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the mathematics and statistics department, McGill university, QC, Canada. 
+I am a postdoctoral researcher at the mathematics and statistics department, McGill university, QC, Canada. I am working with Assoc. Prof. Tim Hoheisel and Asst. Prof. Courtney Paquette. 
+
+
+
+
 
 My research is focused on continuous optimization with a particular interest in decomposition and first order methods for solving large scale, possibly nonconvex, problems.
 
