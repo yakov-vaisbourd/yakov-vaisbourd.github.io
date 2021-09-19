@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the mathematics and statistics department, McGill university, QC, Canada. I am working with Assoc. Prof. Tim Hoheisel and Asst. Prof. Courtney Paquette. 
+I am a postdoctoral researcher at the mathematics and statistics department, McGill university, QC, Canada. [comment]: <> ( I am working with Assoc. Prof. Tim Hoheisel and Asst. Prof. Courtney Paquette.) 
 
 
 
